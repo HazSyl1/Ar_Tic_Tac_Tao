@@ -1,2 +1,2 @@
-A virtual calculator build using OpenCV.
-DEMO: https://www.youtube.com/watch?v=M8ZjUq8QD10
+A AR Tic Tac Toe!!
+* Cross your index and middle finger to make selection!
